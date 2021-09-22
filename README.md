@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Starlink tracker by react
+
+1. This is a front-end project to show the starlink satelite locations in a setted duration. package.json & package-lock.json are the dependencies file for this project.
+
+2. We use "https://api.n2yo.com" as our backend to get the locaitons of these satelites and draw it with d3.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
